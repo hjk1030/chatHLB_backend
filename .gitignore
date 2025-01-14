@@ -12,3 +12,6 @@ xunit-reports/
 media/
 
 download/
+
+pwd.json
+fixture.json
